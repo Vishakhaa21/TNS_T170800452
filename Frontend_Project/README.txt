@@ -1,15 +1,23 @@
-Visha Portfolio — Enhanced Designer Edition
+Vishakha Hinge — Personal Portfolio
+Welcome to my personal portfolio! ✨
 
-Open index.html in a modern browser.
+This portfolio showcases my journey as a final-year BE Electronics & Telecommunication Engineering student, highlighting my technical skills, projects, certifications, internship experience, and creative work.
 
-Included:
-- Designer-first editorial typography and animations
-- Responsive navigation with mobile hamburger menu
-- About Me copy approved by Vishakha Hinge
-- Designer skills: Figma, Canva, MS Office, UI/UX
-- Python and IoT technical positioning
-- Projects, achievements and animated certification tabs
-- GitHub, LinkedIn, email and phone contact actions
-- Profile photo supplied in this conversation
+🚀 What's Inside
+👩‍💻 About Me
+🛠️ Technical Skills & Tools
+📂 Featured Projects
+💼 Internship & Experience
+📜 Certifications
+🎨 UI/UX & Creative Interests
+🔗 GitHub & LinkedIn
+📄 Resume & Contact Information
 
-Resume: intentionally left for the final pass, as requested.
+The portfolio is designed with a modern, futuristic, and minimal aesthetic, combining my interests in technology, IoT, web development, and UI/UX design.
+
+Technologies Used
+HTML • CSS • JavaScript
+
+🌐 Live Portfolio
+Visit my portfolio to explore my work, projects, and experience.
+https://vishakhahingeportfolio-rose.vercel.app/
